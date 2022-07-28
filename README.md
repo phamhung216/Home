@@ -5,7 +5,7 @@ Using: Unity Engine
 
 Asset: Sunnyland
 
-sorry I'm not good enough to upload all source my game so i post my asset, it includes code and asset
+sorry I'm not good enough to upload all my source game so i post my asset, it includes code and asset
 
 Some Scenes:
 ![MenuScene](https://user-images.githubusercontent.com/80769961/181452401-523bf6bd-eeff-481f-ae5f-daa190a930ba.png)
